@@ -3,7 +3,7 @@
 create daily sales report using multiple PDF files.
 
 <br>
-Dashboard Link : https://app.powerbi.com/links/ouBsqa1ZQd?ctid=abbe4076-34d8-4f7b-be72-88ada572a1da&pbi_source=linkShare
+Interactive Dashboard Link : https://app.powerbi.com/links/ouBsqa1ZQd?ctid=abbe4076-34d8-4f7b-be72-88ada572a1da&pbi_source=linkShare
 <br>
 <br>
 
